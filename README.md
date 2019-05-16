@@ -15,4 +15,4 @@ All you will need to modify is the file <code>Config.php</code>
 
 </br>
 
-<b> NB: </b> You must change the two pictures <code>bg.png</code> and <code>header.png</code>, You can find them in a folder <code>IMG</code>
+<b> NB: </b> You must change the two pictures <code>bg.png</code> and <code>header.png</code>, You can find them in <code>IMG</code> folder 
